@@ -1,7 +1,7 @@
 <h1 align="center">Opa</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mogutaa/Mogutaa/138795efa99bbc3e1a1952794358c0a460f2b457/profile.svg" alt="profile" />
+  <img src="https://raw.githubusercontent.com/Mogutaa/Mogutaa/850c6a080ad14efa89694bee271e4a28c7ba467f/profile.svg" alt="profile" />
 </p>
 
 ---
