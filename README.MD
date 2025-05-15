@@ -5,11 +5,10 @@
 </p>
 
 ---
-
-### Sobre mim
-
--  Atualmente trabalhando com **Python e Data Science**
--  Estudando **Golang** e **Machine Learning**
--  Buscando colaborar com projetos open-source
+```text
+  Sobre mim
+  -  Atualmente trabalhando com **Python e Data Science**
+  -  Estudando **Golang** e **Machine Learning**
+  -  Buscando colaborar com projetos open-source
 
 
