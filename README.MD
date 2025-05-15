@@ -5,10 +5,21 @@
 </p>
 
 ---
+
 ```text
-  Sobre mim
-  -  Atualmente trabalhando com **Python e Data Science**
-  -  Estudando **Golang** e **Machine Learning**
-  -  Buscando colaborar com projetos open-source
+ -———————————————————————————————————————————————————————-—-
+. OS: ........................ Windows 10, Android 14, Linux
+. Uptime: ......................................... 28 years
+. IDE: .............................................. VSCode 
+
+. Languages.Programming: ........................ Python, Go
+. Languages.Real: ...................... English, Portuguese
+
+. Hobbies.Software: ................ Terraria, Pokemon, JRPG 
+
+- Contact -——————————————————————————————————————————————-—-
+. Email.Personal: ................. alanjose1d2013@gmail.com
+. LinkedIn: ...................................... Alan José
+
 
 
