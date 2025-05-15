@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Alan 👋</h1>
 
 <p align="center">
-  <img src="profile.svg" alt="profile" />
+  <img src="https://github.com/Mogutaa/Mogutaa/blob/main/profile.svg" alt="profile" />
 </p>
 
 ---
